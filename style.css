@@ -1,11 +1,11 @@
 header{
     background-color: aquamarine;/*cor de fundo*/
-    color: beige;/*cor da fonte*/
+    color: black;/*cor da fonte*/
 
 }
 main{
     background-color: blanchedalmond;
-    color: aqua;
+    color: black;
     text-align: center; /*alinha o texto ao centro*/ 
     max-width: 800px;/*largura maxima*/
     margin: 0 auto ;/*configura margens*/
