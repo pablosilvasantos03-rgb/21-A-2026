@@ -5,6 +5,7 @@ header{
     max-width: 800px;
     margin: 0 auto ;
     padding: 16px;
+    border: 5px solid blanchedalmond;
 }
 main{
     background-color: blanchedalmond;
@@ -15,6 +16,6 @@ main{
 }
 
 footer{
-    background-color: burlywood;
+    background-color: blanchedalmond;
     color: black;
 }
