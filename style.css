@@ -13,9 +13,10 @@ main{
     text-align: center; /*alinha o texto ao centro*/ 
     max-width: 800px;/*largura maxima*/
     margin: 0 auto ;/*configura margens*/
-
-    display: flex;/*habilitar o uso de flex box*/
-}
+    padding: 16px;/*habilita o uso de flex box*/
+    display: table-row;/*habilitar o uso de flex box*/
+    flex-direction: row;/*orienta os elementos na horizontal na ordem 1, 2, 3, */
+}   
 
 footer{
     background-color: blanchedalmond;
