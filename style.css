@@ -13,6 +13,8 @@ main{
     text-align: center; /*alinha o texto ao centro*/ 
     max-width: 800px;/*largura maxima*/
     margin: 0 auto ;/*configura margens*/
+
+    display: flex;/*habilitar o uso de flex box*/
 }
 
 footer{
