@@ -19,3 +19,7 @@ footer{
     background-color: blanchedalmond;
     color: black;
 }
+    img{
+       width: 80px;/*largura*/
+       height: 80px;/*largura*/
+    }
