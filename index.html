@@ -10,18 +10,24 @@
 
 <body>
     <header>-
-       <h1>Meu blog tech</h1>
+       <h1>Meu blog tech</h1> 
        <p>vou comprtilhar conhecimentos sobre tecnologia e programação</p>
     </header>
 
     <main>
-        <img src="livro.jpg" alt="imagem de livros empilhados com um lapis em cima">
+        <img src="livro.jpg" alt="Ilustração estilizada em vetor de uma pilha de três livros coloridos com um lápis no topo">
+        <div>
         <h2>Meu primeiro post</h2>
-        <p>por Gilmar Horchulhak</p>
+        <p class="artigo-autor">por Gilmar Horchulhak</p>
         <p>boas vindas ao meu blog!</p>
+        </div>
+        <button>😁​<span>0</span></button>
     </main>
     
     <footer>Rodapé</footer>
 </body>
-
+<script>
+    const botão=document.querySelector("button")
+    botao.addEventListener("click", botaoClicado);
+</script>
 </html>
