@@ -14,7 +14,8 @@ main{
     max-width: 800px;/*largura maxima*/
     margin: 0 auto ;/*espaçamento externo ao redor do elemento*/
     padding: 16px;/*espaçamento interno*/
-    display: flexbilitar o uso de flex box*/
+    display: flexmargin: 0 auto;/*espaÃ§amento externo ao redor do elemento*/
+}
     flex-direction: row;/*orienta os elementos na horizontal na ordem 1, 2, 3, */
 }   
 
