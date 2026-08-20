@@ -22,6 +22,8 @@ footer{
     background-color: blanchedalmond;
     color: black;
     max-width: 800px;/*largura maxima*/
+    display: flex;/*habilita o uso do flex box*/
+    margin:0 auto;/*espaçamento interno ao redor do elemento*/
 }   
 img{
        width: 80px;/*largura*/
